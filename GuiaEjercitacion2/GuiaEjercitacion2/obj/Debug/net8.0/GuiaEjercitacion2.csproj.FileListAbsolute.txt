@@ -1,0 +1,15 @@
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.exe
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.deps.json
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.runtimeconfig.json
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.dll
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\bin\Debug\net8.0\GuiaEjercitacion2.pdb
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.GeneratedMSBuildEditorConfig.editorconfig
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.AssemblyInfoInputs.cache
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.AssemblyInfo.cs
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.csproj.CoreCompileInputs.cache
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.dll
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\refint\GuiaEjercitacion2.dll
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.pdb
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.genruntimeconfig.cache
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\ref\GuiaEjercitacion2.dll
+E:\trabajos que hago en visual violeta\GuiaEjercitacion2\GuiaEjercitacion2\obj\Debug\net8.0\GuiaEjercitacion2.sourcelink.json
